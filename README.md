@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 <!--
-**pjsinsures/pjsinsures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... So welcome everyone!
 This is really a simple attempt to host my sitemapes on github. I know, everyone says it has to be on your site but.... others seem to be providing a service. So, let's see where this takes us.
 If you have a suggestion or alternative plan, feel free to let me know.
 I have tried to protect myself from anyone trying to mess with my site...I just ask.. please don't.
