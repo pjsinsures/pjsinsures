@@ -7,7 +7,7 @@ Currently have a new Google site set up on google hosted.
 
 
 ## 🚀 About This little project
-This is really a simple attempt to host my sitemapes on github. I know, everyone says it has to be on your site but.... others seem to be providing a service. So, let's see where this takes us.
+This is really a simple attempt to host my sitemaps on github. I know, everyone says it has to be on your site but.... others seem to be providing a remote service (like PRO-sitemaps.com). So, let's see where this takes us.
 If you have a suggestion or alternative plan, feel free to let me know.
 
 
