@@ -1,9 +1,8 @@
 ﻿
 Sitemap: https://pjsinsures.github.com/pjsinsures/sitemap.xml
 
-<meta name="googlebot" content="noindex,indexifembedded" />
+<meta name="googlebot" content="indexifembedded" />
 <meta name="google-site-verification" content="UA-83958326-1" />
-<meta name="robots" content="max-video-preview:-1" />
 
 User-agent: *
 Disallow:
