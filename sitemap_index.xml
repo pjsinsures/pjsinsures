@@ -1,0 +1,19 @@
+ <?xml version='1.0' encoding='utf-8'?>
+   <sitemapindex xmlns="https://www.google.com/schemas/sitemap/0.84">
+    <sitemap>
+     <loc>
+      http://pjsinsures.github.io/sitemap.xml
+     </loc>
+     <lastmod>
+      2022-21-07T18:23:17+00:00
+     </lastmod>
+    </sitemap>
+    <sitemap>
+     <loc>
+      http://pjsinsures.github.io/sitemap_images.xml
+     </loc>
+     <lastmod>
+      2022-21-07T18:23:17+00:00
+     </lastmod>
+    </sitemap>
+   </sitemapindex>
