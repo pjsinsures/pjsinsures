@@ -1,8 +1,8 @@
  <?xml version='1.0' encoding='utf-8'?>
-   <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemapindex xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
      <loc>
-      http://pjsinsures.github.io/pjsinsures/sitemap.xml
+      https://pjsinsures.github.io/pjsinsures/sitemap.xml
      </loc>
      <lastmod>
       2022-21-07T18:23:17+00:00
@@ -10,7 +10,7 @@
     </sitemap>
     <sitemap>
      <loc>
-      http://pjsinsures.github.io/pjsinsures/sitemap_images.xml
+      https://pjsinsures.github.io/pjsinsures/sitemap_images.xml
      </loc>
      <lastmod>
       2022-21-07T18:23:17+00:00
