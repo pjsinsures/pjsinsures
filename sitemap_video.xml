@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<urlset
+      
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+      
+	xsi:schemaLocation="
+            
+		http://www.sitemaps.org/schemas/sitemap/0.9
+            
+		http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<!--Videos from products landing pages-->
+	<!--Video from products-home ins landing page-->
+
+	<url>
+       
+		<loc>https://savemorewith.pjsinsures.com/products/Home-Insurance-for-Arizona-families</loc>
+       
+		<lastmod>2022-07-23T05:03:09+00:00</lastmod>
+       
+		<changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       
+	<video:video>
+         
+	<video:thumbnail_loc>https://i.ytimg.com/vi/9uYgPucxHVA/mqdefault.jpg</video:thumbnail_loc> 
+         
+	<video:title>PJS Insurance Services-AARP Home Insurance From The Hartford – Home Insurance 101</video:title>
+         
+	<video:description>Free Quote-call 602-750-0616 - Your home is probably the most expensive purchase you&apos;ll ever make – which is why protecting it is so important. A homeowner&apos;s insurance policy doesn&apos;t just help pay for damage to your home, but can also help protect your finances. Watch this short video to learn more!
+
+ Start saving on your home, auto, and life insurance today with PJS Insurance Services in Mesa, Arizona. Get a free quote at https://savemorewith.pjsinsures.com/quote/request-info, feel free to call 602-750-0616 or connect with me here:
+
+
+
+Facebook | https://www.facebook.com/pjsinsures
+
+
+Twitter | https://twitter.com/pjsinsures
+
+
+LinkedIn | https://www.linkedin.com/in/pjsinsures
+
+Serving families in Arizona | Save More With PJS Insurance Services today!</video:description>
+
+         
+	<video:publication_date>2022-04-05T13:36:15Z</video:publication_date>
+         
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/9uYgPucxHVA</video:player_loc>
+         
+	<video:duration>194</video:duration>
+       
+	</video:video>
+  
+	</url>
+
+
+	<!--Video from products-indep agent landing page-->
+
+	<url>
+       
+		<loc>https://savemorewith.pjsinsures.com/products/why-choose-an-independent-agent</loc>
+       
+		<lastmod>2022-07-23T05:03:09+00:00</lastmod>
+       
+		<changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       
+	<video:video>
+         
+	<video:thumbnail_loc>https://embed-ssl.wistia.com/deliveries/9630d8e1641407bd9d6350d879f013d4.jpg</video:thumbnail_loc> 
+         
+	<video:title>PJS Insurance Services-Why chose an Independent Insurance Agent in Mesa Arizona</video:title>
+         
+	<video:description>Free Quote-call 602-750-0616 - PJS Insurance Services is your best choice for an Independent Insurance Agency in Mesa Arizona.
+
+ You have more choices from Companies you know and trust, customized coverages to fit your specific needs, and The Lowest Prices in Arizona. Watch this short video to learn more! Start saving on your home, auto, and life insurance today with PJS Insurance Services in Mesa, Arizona. Get a free quote at https://savemorewith.pjsinsures.com/quote/request-info, feel free to call 602-750-0616 or connect with me here:
+
+
+
+Facebook | https://www.facebook.com/pjsinsures
+
+
+Twitter | https://twitter.com/pjsinsures
+
+
+LinkedIn | https://www.linkedin.com/in/pjsinsures
+
+Serving families in Arizona | Save More With PJS Insurance Services today!</video:description>
+
+         
+	<video:publication_date>2022-06-15T13:36:15Z</video:publication_date>
+         
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://fast.wistia.com/embed/medias/ivsgw8lonk</video:player_loc>
+         
+	<video:duration>78</video:duration>
+       
+	</video:video>
+  
+	</url>
+
+
+	<!--Video from products-life ins landing page-->
+
+	<url>
+       
+		<loc>https://savemorewith.pjsinsures.com/products/life-insurance-in-mesa-arizona</loc>
+       
+		<lastmod>2022-07-23T05:03:09+00:00</lastmod>
+       
+		<changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       
+	<video:video>
+         
+	<video:thumbnail_loc>https://embed-ssl.wistia.com/deliveries/e84be5f0a3ad7b77a34f7b4c15cfb1fd.jpg</video:thumbnail_loc> 
+         
+	<video:title>PJS Insurance Services-What is Life Insurance for families in Mesa Arizona</video:title>
+         
+	<video:description>Free Quote-call 602-750-0616 - PJS Insurance Services in Mesa Arizona-start the honest conversation to protect the ones that depend on you, your income, and future-What is Life Insurance? Watch this short video to learn more!
+
+ Start saving on your home, auto, and life insurance today with PJS Insurance Services in Mesa, Arizona. Get a free quote at https://savemorewith.pjsinsures.com/quote/request-info, feel free to call 602-750-0616 or connect with me here:
+
+
+
+Facebook | https://www.facebook.com/pjsinsures
+
+
+Twitter | https://twitter.com/pjsinsures
+
+
+LinkedIn | https://www.linkedin.com/in/pjsinsures
+
+Serving families in Arizona | Save More With PJS Insurance Services today!</video:description>
+
+         
+	<video:publication_date>2022-06-15T13:36:15Z</video:publication_date>
+         
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://fast.wistia.com/embed/medias/ymifibqhpg</video:player_loc>
+         
+	<video:duration>194</video:duration>
+       
+	</video:video>
+  
+	</url>
+
+
+<!--Videos from service landing pages-->
+	<!--Video from service-safeco landing page-->
+
+	<url>
+       
+		<loc>https://savemorewith.pjsinsures.com/service/download-the-new-safeco-mobile-app</loc>
+       
+		<lastmod>2022-07-23T05:03:09+00:00</lastmod>
+       
+		<changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       
+	<video:video>
+         
+	<video:thumbnail_loc>https://i.ytimg.com/vi/xPQMCrUGyUM/mqdefault.jpg</video:thumbnail_loc> 
+         
+	<video:title>PJS Insurance Services-Download the new Safeco mobile app</video:title>
+         
+	<video:description>Have a question?-call 602-750-0616 - We heard your feedback – and we took our app back to the drawing board. The new Safeco mobile app has been completely redesigned, making it easier than ever to manage your insurance on the go. Save more with PJS Insurance Services in Mesa, Arizona. Call today with questions at 602-750-0616 or connect with me here:
+
+
+Facebook | https://www.facebook.com/pjsinsures
+
+Twitter | https://twitter.com/pjsinsures
+
+
+LinkedIn | https://www.linkedin.com/in/pjsinsures
+
+http://spr.ly/6056KMA2p
+
+Serving families in Arizona | Save More With PJS Insurance Services today!</video:description>
+         
+
+	<video:publication_date>2022-02-21T14:30:11Z</video:publication_date>
+         
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/xPQMCrUGyUM</video:player_loc>
+         
+	<video:duration>37</video:duration>
+       </video:video>
+  
+	</url>
+
+
+	<!--Video from service-nationwide landing page-->
+
+	<url>
+       
+		<loc>https://savemorewith.pjsinsures.com/service/Download-the-nationwide-mobile-app</loc>
+       
+		<lastmod>2022-07-23T05:03:09+00:00</lastmod>
+       
+		<changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       
+	<video:video>
+         
+	<video:thumbnail_loc>https://embed-ssl.wistia.com/deliveries/9604c0a766aa03928c36cb0db8c58f39.jpg</video:thumbnail_loc> 
+         
+	<video:title>PJS Insurance Services in Mesa Arizona-How to download the Nationwide mobile app</video:title>
+         
+	<video:description>Have a question?-call 602-750-0616 - The Nationwide mobile app makes it easy to pay your bill, print ID cards, make policy changes, or even file and track a claim right from your phone. Our mobile app lets you access your Nationwide accounts on the go. Save more with PJS Insurance Services in Mesa, Arizona. Call today with questions at 602-750-0616 or connect with me here:
+
+
+Facebook | https://www.facebook.com/pjsinsures
+
+Twitter | https://twitter.com/pjsinsures
+
+
+LinkedIn | https://www.linkedin.com/in/pjsinsures
+
+Serving families in Arizona | Save More With PJS Insurance Services today!</video:description>
+         
+
+	<video:publication_date>2022-05-20T14:30:11Z</video:publication_date>
+         
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://fast.wistia.net/embed/iframe/0xctbgjts7</video:player_loc>
+         
+	<video:duration>41</video:duration>
+       </video:video>
+  
+	</url>
+
+	<!--Video from service-travelers landing page-->
+
+	<url>
+       
+		<loc>https://savemorewith.pjsinsures.com/service/Video-to-download-mobile-app</loc>
+       
+		<lastmod>2022-07-23T05:03:09+00:00</lastmod>
+       
+		<changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+       
+	<video:video>
+         
+	<video:thumbnail_loc>https://www.travelerstoolkitplus.com/uploads/client1013/toolkitPlus/ContentPoster/x1x1DADVideoThumbnail.jpg</video:thumbnail_loc> 
+         
+	<video:title>PJS Insurance Services-How to download and use Travelers mobile apps</video:title>
+         
+	<video:description>Have a question?-call 602-750-0616 - Watch this short video for assistance in setting up your Travelers insurance account app and safe driving app. MyTravelers mobile provides Personal Insurance customers with a streamlined mobile experience in the palm of your hand. Save more with PJS Insurance Services in Mesa, Arizona. Call today with questions at 602-750-0616 or connect with me here:
+
+
+Facebook | https://www.facebook.com/pjsinsures
+
+Twitter | https://twitter.com/pjsinsures
+
+
+LinkedIn | https://www.linkedin.com/in/pjsinsures
+
+Serving families in Arizona | Save More With PJS Insurance Services today!</video:description>
+         
+
+	<video:publication_date>2022-06-01T14:30:11Z</video:publication_date>
+         
+	<video:player_loc allow_embed="yes" autoplay="ap=1">https://www.travelerstoolkitplus.com/VLP/7CBB8F0</video:player_loc>
+         
+	<video:duration>165</video:duration>
+       </video:video>
+  
+	</url>
+</urlset>
