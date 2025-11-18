@@ -1,6 +1,8 @@
 
 # pjsinsures-Sitemap setup 
 Currently have a new Google site set up on google hosted. 
+8/17/25 update:
+Now hosting on Hostinger and using their web builder tool.
 
 
 # Hi, I'm Peter 👋
@@ -12,6 +14,22 @@ If you have a suggestion or alternative plan, feel free to let me know.
 ***Recent updates for this little project 8/5-8/7***
 I have, since starting this for sitemaps, also added an images folder. About 12 of the main images for the _images sitemap. Of that, 6 also point to the _video sitemap. I also added 3 images such as a main banner on most of my pages and 2 other larger images that appear on 2-3 pages.
 I don't think this will cause a lot of bandwidth, savemorewith.pjsinsures.com is lower in traffic (about 100 hits per day for the last 2 months). Was hoping that using this as a pseudo CDN it may help my page speed a little. Also, went through and pointed all of these images on the website to here on github.
+
+***Update 8/18/25...priorities change but still have a need.***
+So... going through everything and now moving adding Hubspot as my CRM and additional Blog site. Completed 6 certifications and wrapping up a few more.
+Working on developing and learning a tech stack to boost and grow the insurance side. So far this is what is in the process of getting set up in addition to G work place & Hubspot:
+> ClickUp-for project management, page creation and ai tools
+
+> Buffer-for the 3 free soc media accts to create and schedule
+
+> Metricool-for the 5 smaller soc media accts to create and schedule
+
+> Canva-been using the free version for years and will continue for graphic/video creation
+
+> Also starting with the Google developer program to get more into understanding and working with ai
+
+Hope to use this repo now for the content creation side and any work being done with the dev program. I saw in your mktplace there is a code review agent...probably would be using??
+Any feedback helpful...Thanks
 
 
 
